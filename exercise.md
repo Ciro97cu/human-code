@@ -10,8 +10,9 @@ ELEMENTI IMPORTANTI PER L'ESECUZIONE DELL'ESERCIZIO
 #fdoppione (Figurina Doppione)
 } #album #piladoppioni
 
--Apertura pacchetto (start) 
+-Apertura pacchetto (start)
+-creazione pila carte per effettuare i vari controlli
 -confrontiamo ogni singola carta dell'album per verificare quali sono fnuova e fdoppione 
--controlloare figurina if(figurina==fnuova){ aggiungere all' album } 
+-controllare figurina if(figurina==fnuova){ aggiungere all' album } 
     else{ aggiungere Fdoppiona al album piladoppioni Fdoppiona scambio per f nuova con amici il sabato sera 
     if (Scambio avviene){ aggiungere all'album } }
